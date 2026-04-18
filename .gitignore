@@ -1,0 +1,9 @@
+.env
+__pycache__/
+*.pyc
+.DS_Store
+data/current_comments.csv
+data/current_video_meta.json
+data/current_viewpoint_strategy.json
+data/current_llm_analysis.json
+data/current_llm_english_viewpoints.json
